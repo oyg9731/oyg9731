@@ -3,11 +3,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=A284EB&height=150&section=header&text=🍀Wellcom🍀&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
+![ITZY_img](https://github.com/oyg9731/oyg9731/assets/127819813/2cb092fc-2cb9-48ab-90b2-55b811bd728c)
 
-  
- <br/>
- <img src="[https://thumbs.gfycat.com/HarshWastefulFinch-size_restricted.gif](https://mblogthumb-phinf.pstatic.net/MjAxOTA0MDJfMTky/MDAxNTU0MTc3MjI4OTk5.6aQ4GuGrhqdKlvZMcDNypvuK-TNelSnemrMvLBaDZN8g.CYwBTu21lE-vzLwljp3J2wMfmi7sRSHmEc9TRyvliuMg.JPEG.sdway106/ITZY_(4).jpg?type=w800)"/>
- <br/>
   
 ####  :clipboard: Once I've Used 
 
