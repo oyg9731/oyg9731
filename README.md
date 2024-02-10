@@ -6,12 +6,12 @@
 
   
  <br/>
- <img src="https://thumbs.gfycat.com/HarshWastefulFinch-size_restricted.gif"/>
+ <img src="[https://thumbs.gfycat.com/HarshWastefulFinch-size_restricted.gif](https://mblogthumb-phinf.pstatic.net/MjAxOTA0MDJfMTky/MDAxNTU0MTc3MjI4OTk5.6aQ4GuGrhqdKlvZMcDNypvuK-TNelSnemrMvLBaDZN8g.CYwBTu21lE-vzLwljp3J2wMfmi7sRSHmEc9TRyvliuMg.JPEG.sdway106/ITZY_(4).jpg?type=w800)"/>
  <br/>
   
 ####  :clipboard: Once I've Used 
 
-  <h3 align="center"><b📚 my stack 📚</b></h3>
+<h3 align="center"><b📚 my stack 📚</b></h3>
  <br/>
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
