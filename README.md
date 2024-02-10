@@ -9,10 +9,7 @@
 ####  :clipboard: Once I've Used  
 <br/>
 
-<h2 align="center"><b></b>📚 My Stack 📚</b></h2>
- <br/>
- <br/>
- <h3 align="center"><b>🖥️ Web Programming 🖥️</b></h3>
+ <h3 align="center"><b>📚 My Stack 📚</b></h3>
  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
  <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -24,13 +21,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 <img src="https://img.shields.io/badge/aws-232F3E?style=for-the-badge&logo=aws&logoColor=white">
-
-
-<h3 align="center"><b>🎮 Gaming 🎮</b></h3>
-</br>
-<p align="center">
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-</p>
  
    <br/>
    <br/>
