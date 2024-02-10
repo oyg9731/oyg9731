@@ -23,7 +23,7 @@
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
 <br/>
- <img src="[https://thumbs.gfycat.com/HarshWastefulFinch-size_restricted.gif](https://mblogthumb-phinf.pstatic.net/MjAxOTA0MDJfMTky/MDAxNTU0MTc3MjI4OTk5.6aQ4GuGrhqdKlvZMcDNypvuK-TNelSnemrMvLBaDZN8g.CYwBTu21lE-vzLwljp3J2wMfmi7sRSHmEc9TRyvliuMg.JPEG.sdway106/ITZY_(4).jpg?type=w800)"/>
+ <img src="![ITZY_img](https://github.com/oyg9731/oyg9731/assets/127819813/3870e732-2937-4ca0-a1e8-205e37c9791e)"/>
  <br/>
 
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
