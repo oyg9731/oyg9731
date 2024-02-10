@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white">
 
+<br/>
+ <img src="[https://thumbs.gfycat.com/HarshWastefulFinch-size_restricted.gif](https://mblogthumb-phinf.pstatic.net/MjAxOTA0MDJfMTky/MDAxNTU0MTc3MjI4OTk5.6aQ4GuGrhqdKlvZMcDNypvuK-TNelSnemrMvLBaDZN8g.CYwBTu21lE-vzLwljp3J2wMfmi7sRSHmEc9TRyvliuMg.JPEG.sdway106/ITZY_(4).jpg?type=w800)"/>
+ <br/>
+
 <h3 align="center"><b>🎮 Gaming 🎮</b></h3>
 </br>
 <p align="center">
