@@ -5,8 +5,6 @@
 ####  :wave: Welcome my github profile !
 ![ITZY_img](https://github.com/oyg9731/oyg9731/assets/127819813/2cb092fc-2cb9-48ab-90b2-55b811bd728c)
 
-  
-####  :clipboard: Once I've Used  
 <br/>
 
  <h3 align="center"><b>📚 My Stack 📚</b></h3>
@@ -25,6 +23,8 @@
  
    <br/>
    <br/>
+#### :pencil2: My Portfolio
+   https://www.notion.so/1419a60d2da44d30b61c3f87cb9d6dde?pvs=4
  
 #### :pencil2: Study log
  
@@ -34,5 +34,4 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyg9731&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-  
 </div>
