@@ -24,7 +24,8 @@
    <br/>
    <br/>
 #### :pencil2: My Portfolio
-   https://www.notion.so/1419a60d2da44d30b61c3f87cb9d6dde?pvs=4
+   <br/>
+   👉👉👉 https://www.notion.so/1419a60d2da44d30b61c3f87cb9d6dde?pvs=4
  
 #### :pencil2: Study log
  
