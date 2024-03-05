@@ -23,11 +23,6 @@
  
    <br/>
    <br/>
-   <br/>
-   <br/>
-#### :pencil2: My Portfolio
-   <br/>
-   👉👉👉 
  
 #### :pencil2: Study log
  
