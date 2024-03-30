@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=ffffff&height=150&section=header&text=🍀Welcome🍀&fontColor=000000&fontSize=60&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
   
 ####  :wave: Welcome my github profile !
-![ITZY_img](https://github.com/oyg9731/oyg9731/assets/127819813/2cb092fc-2cb9-48ab-90b2-55b811bd728c)
 
 <br/>
 
