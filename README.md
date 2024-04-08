@@ -27,7 +27,7 @@
  
   <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyg9731&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyg9731)](https://solved.ac/oyg9731/)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyg9731@naver.com&show_icons=true&theme=radical)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=oyg9731@naver.com)](https://solved.ac/oyg9731@naver.com/)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyg9731&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
